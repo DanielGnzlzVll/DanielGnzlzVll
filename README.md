@@ -17,6 +17,12 @@
 
 <br/>
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/AlexAlzate95
 [instagram]: https://instagram.com/alex.alzate95
