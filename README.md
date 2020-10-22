@@ -15,16 +15,16 @@
 [<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
 
 ---
-### :zap: GitHub Stats:
-
-[![Aalzate95's github stats](https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonigh)](https://github.com/Aalzate95/github-readme-stats)
-
-
----
 ### 💥Top Languages:
 *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalzate95&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :zap: GitHub Stats:
+
+<img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /><br/>
 
 ---
 [twitter]: https://twitter.com/AlexAlzate95
