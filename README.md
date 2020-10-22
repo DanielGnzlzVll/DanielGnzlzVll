@@ -12,24 +12,21 @@
 
 [<img align="left" alt="Aalzate95 | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Aalzate95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
----
+[<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
 
-### :zap: GitHub Stats
+---
+### :zap: GitHub Stats:
+
+*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
 <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-<br/>
+
 ---
-
-### Top Languages
-
-NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+### 💥Top Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalzate95&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+---
 [twitter]: https://twitter.com/AlexAlzate95
 [instagram]: https://instagram.com/alex.alzate95
 [linkedin]: https://linkedin.com/in/aalzate95
