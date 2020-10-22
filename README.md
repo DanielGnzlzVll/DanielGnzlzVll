@@ -26,9 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalzate95&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### ⌛Week Stats:
-[![Aalzate95's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aalzate95)](https://github.com/anuraghazra/github-readme-stats)
----
 ### :zap: GitHub Stats:  
   <p>
     <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /><br/>  
