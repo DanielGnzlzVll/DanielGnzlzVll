@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/edapigo/TyperSharkProject/issues/3) in [edapigo/TyperSharkProject](https://github.com/edapigo/TyperSharkProject)
-2. ❗️ Opened issue [#1](https://github.com/juandiegov16/trivia-game/issues/1) in [juandiegov16/trivia-game](https://github.com/juandiegov16/trivia-game)
+1. 🎉 Merged PR [#1](https://github.com/Aalzate95/Clothing-Store-Project/pull/1) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+2. 🎉 Merged PR [#2](https://github.com/Aalzate95/Clothing-Store-Project/pull/2) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
