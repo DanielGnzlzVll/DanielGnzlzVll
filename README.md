@@ -21,10 +21,6 @@
 2. 🎉 Merged PR [#2](https://github.com/Aalzate95/Clothing-Store-Project/pull/2) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
 <!--END_SECTION:activity-->
 ---
-### WakaTime
-<img src="https://github.com/Aalzate95/Aalzate95/blob/master/images/stat.svg" alt="Aalzate95 WakaTime Activity"/>
-
----
 ### 💥Top Languages:
 *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
