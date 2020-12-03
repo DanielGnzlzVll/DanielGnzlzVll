@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Aalzate95/DAWM/pull/2) in [Aalzate95/DAWM](https://github.com/Aalzate95/DAWM)
-2. 💪 Opened PR [#2](https://github.com/Aalzate95/DAWM/pull/2) in [Aalzate95/DAWM](https://github.com/Aalzate95/DAWM)
+1. 🗣 Commented on [#4](https://github.com/Aalzate95/Clothing-Store-Project/issues/4) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+2. 🎉 Merged PR [#4](https://github.com/Aalzate95/Clothing-Store-Project/pull/4) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
