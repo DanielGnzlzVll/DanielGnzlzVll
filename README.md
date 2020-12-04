@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Aalzate95/Clothing-Store-Project/pull/9) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
-2. 💪 Opened PR [#9](https://github.com/Aalzate95/Clothing-Store-Project/pull/9) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+1. 🎉 Merged PR [#10](https://github.com/Aalzate95/Clothing-Store-Project/pull/10) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+2. 💪 Opened PR [#10](https://github.com/Aalzate95/Clothing-Store-Project/pull/10) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
