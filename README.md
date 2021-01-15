@@ -34,7 +34,7 @@
 
 ---
 ### WakaTime
-<img src="https://github.com/DanielGnzlzVll/DanielGnzlzVll/blob/master/images/stat.svg" alt="Aalzate95 WakaTime Activity"/>
+<img src="https://github.com/DanielGnzlzVll/DanielGnzlzVll/blob/master/images/stat.svg" alt="DanielGnzlzVll/DanielGnzlzVll WakaTime Activity"/>
 
 
 [twitter]: https://twitter.com/AlexAlzate95
