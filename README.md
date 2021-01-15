@@ -32,6 +32,7 @@
   </p>
 <br/>
 
+
 ---
 ### WakaTime
 <img src="https://github.com/DanielGnzlzVll/DanielGnzlzVll/blob/master/images/stat.svg" alt="DanielGnzlzVll/DanielGnzlzVll WakaTime Activity"/>
