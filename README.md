@@ -1,6 +1,6 @@
-## Hi there, I'm Alexander - aka Aalzate95 👋
+## Hi there, I'm Daniel Gonzalez👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AlexAlzate95?color=blue&label=Follow%20%40AlexAlzate95&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=AlexAlzate95)
+
 ---
 ### I'm a Developer by passion, dedicated 💪, who loves to learn new things every day ☀️, self-taught and outgoing.
 
@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Aalzate95/Clothing-Store-Project/pull/11) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
-2. 🎉 Merged PR [#10](https://github.com/Aalzate95/Clothing-Store-Project/pull/10) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+1. 💪 Opened PR [#11](https://github.com/DanielGnzlzVll/Clothing-Store-Project/pull/11) in [DanielGnzlzVll/Clothing-Store-Project](https://github.com/DanielGnzlzVll/Clothing-Store-Project)
+2. 🎉 Merged PR [#10](https://github.com/DanielGnzlzVll/Clothing-Store-Project/pull/10) in [DanielGnzlzVll/Clothing-Store-Project](https://github.com/DanielGnzlzVll/Clothing-Store-Project)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
