@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/DanielGnzlzVll/Clothing-Store-Project/pull/11) in [DanielGnzlzVll/Clothing-Store-Project](https://github.com/DanielGnzlzVll/Clothing-Store-Project)
-2. 🎉 Merged PR [#10](https://github.com/DanielGnzlzVll/Clothing-Store-Project/pull/10) in [DanielGnzlzVll/Clothing-Store-Project](https://github.com/DanielGnzlzVll/Clothing-Store-Project)
+1. 💪 Opened PR [#1](https://github.com/josenoguera-94/dashboard-dash-plotly/pull/1) in [josenoguera-94/dashboard-dash-plotly](https://github.com/josenoguera-94/dashboard-dash-plotly)
+2. ❗️ Closed issue [#1189](https://github.com/eamodio/vscode-gitlens/issues/1189) in [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
