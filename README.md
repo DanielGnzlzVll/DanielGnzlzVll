@@ -28,7 +28,7 @@
 ---
 ### :zap: GitHub Stats:  
   <p>
-    <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /><br/>  
+    <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.DanielGnzlzVll.vercel.app/api?username=DanielGnzlzVll&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /><br/>  
   </p>
 <br/>
 
