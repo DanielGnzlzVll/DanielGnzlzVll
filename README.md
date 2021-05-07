@@ -8,11 +8,11 @@
 - 💻 I’m looking to collaborate with other content creators
 - 🎪 Fun fact: I love to draw and play videogames
 ---
-### 📫 Connect with me:
+### 📫 I'm not activec but connect with me:
 
-[<img align="left" alt="Aalzate95 | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Aalzate95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
+[<img align="left" alt="DanielGnzlzVll | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="DanielGnzlzVll | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ---
 ### Recent Activity:
@@ -33,6 +33,5 @@
 <br/>
 
 
-[twitter]: https://twitter.com/AlexAlzate95
-[instagram]: https://instagram.com/alex.alzate95
-[linkedin]: https://linkedin.com/in/aalzate95
+[twitter]: https://twitter.com/DanielGzlzVll
+[linkedin]: https://www.linkedin.com/in/daniel-gonzalez-2a326417a/
