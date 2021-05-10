@@ -10,9 +10,8 @@ I don't play any instrument but I love music, I listen to all genres but mainly 
 
 #### I'm from medellin colombia papa!
 
-- 🎓 I’m currently learning everything 🤣
-- 💻 I’m looking to collaborate with other content creators
-- 🎪 Fun fact: I love to draw and play videogames
+- Python + Django + Docker + AWS = ♥ 
+
 ---
 
 ### 📫 I'm not active, but connect with me:
