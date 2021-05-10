@@ -20,8 +20,8 @@ I don't play any instrument but I love music, I listen to all genres but mainly 
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/josenoguera-94/dashboard-dash-plotly/pull/1) in [josenoguera-94/dashboard-dash-plotly](https://github.com/josenoguera-94/dashboard-dash-plotly)
-2. ❗️ Closed issue [#1189](https://github.com/eamodio/vscode-gitlens/issues/1189) in [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens)
+1. 💪 Opened PR [#9](https://github.com/DanielGnzlzVll/Hefesto/pull/9) in [DanielGnzlzVll/Hefesto](https://github.com/DanielGnzlzVll/Hefesto)
+2. ❌ Closed PR [#8](https://github.com/DanielGnzlzVll/Hefesto/pull/8) in [DanielGnzlzVll/Hefesto](https://github.com/DanielGnzlzVll/Hefesto)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
