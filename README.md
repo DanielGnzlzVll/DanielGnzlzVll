@@ -4,7 +4,7 @@
 ---
 I'm an electrical engineer👷. Passionate about freaking with hardware, I always have a raspberry or an arduino on my desktop ⚙, I made my desktop and built my room by myself 🛠.
 
-I love software development, I consider myself a software engineer 🤓. I always try maintain a good rate between the quality of the code ✔, the performance of the applications 📈  and the "time to market"⌚.
+I love software development, I consider myself a software engineer 🤓. I always try to maintain a good equilibrium between the code quality ✔, application performance, 📈  and the "time to market"⌚.
 
 I don't play any instrument but I love music, I listen to all genres but mainly rock <img width="50px" src="https://github.com/DanielGnzlzVll/DanielGnzlzVll/blob/master/heroes-del-silencio.jpg"> and vallenato <img width="50px" src="https://github.com/DanielGnzlzVll/DanielGnzlzVll/blob/master/sombrero.jpeg">.
 
