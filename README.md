@@ -18,12 +18,6 @@ I don't play any instrument but I love music, I listen to all genres but mainly 
 [<img align="left" alt="DanielGnzlzVll | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="DanielGnzlzVll | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br/>
 ---
-### Recent Activity:
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/DanielGnzlzVll/Hefesto/pull/9) in [DanielGnzlzVll/Hefesto](https://github.com/DanielGnzlzVll/Hefesto)
-2. ❌ Closed PR [#8](https://github.com/DanielGnzlzVll/Hefesto/pull/8) in [DanielGnzlzVll/Hefesto](https://github.com/DanielGnzlzVll/Hefesto)
-<!--END_SECTION:activity-->
----
 ### 💥Top Languages:
 *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
 
