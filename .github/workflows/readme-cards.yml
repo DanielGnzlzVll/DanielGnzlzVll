@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=tokyonight&custom_title=Daniel%20Gonzalez%27s%20GitHub%20Stats
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,6 +29,30 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=5&layout=compact&theme=react
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate egg-basket-monitor pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=egg-basket-monitor&theme=tokyonight&hide_border=true
+          path: profile/pin-egg-basket-monitor.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate multimeter-un202-stand pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=multimeter-un202-stand&theme=tokyonight&hide_border=true
+          path: profile/pin-multimeter-un202-stand.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate herdr-session-fork pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=herdr-session-fork&theme=tokyonight&hide_border=true
+          path: profile/pin-herdr-session-fork.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
